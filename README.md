@@ -8,7 +8,7 @@ This project is designed to be **placement- and interview-ready**.
 
 ---
 
-## 🛠 Tools & Technologies
+##  Tools & Technologies
 
 * **SQL** – Business queries and aggregations
 * **Python (Pandas, Matplotlib, Seaborn)** – Data cleaning and exploratory data analysis
