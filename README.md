@@ -1,4 +1,4 @@
-# 📊 Superstore Sales Data Analysis using MySQL, Power BI & Python
+# Superstore Sales Data Analysis using MySQL, Power BI & Python
 
 ##  Project Overview
 
