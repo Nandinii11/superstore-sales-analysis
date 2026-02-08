@@ -139,7 +139,3 @@ This project demonstrates the ability to:
 It reflects practical skills required for **Data Analyst and Business Intelligence roles**.
 
 ---
-
-## 👤 Author
-
-**Nandini**
